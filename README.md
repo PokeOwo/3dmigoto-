@@ -1,7 +1,7 @@
 # 3dmigoto_auto_open_tool
 中文:
 ========================================================================================================================
-把這個壓縮檔裡的檔案放到跟3DMigoto Loader.exe同個資料夾
+把3dmigoto.rar裡的檔案放到跟3DMigoto Loader.exe同個資料夾
 
 如果你的原神不是裝在C:\Program Files\Genshin Impact\Genshin Impact Game資料夾的話
 
@@ -9,6 +9,6 @@
 
 English:
 ========================================================================================================================
-Put the files inside this compressed folder in the same directory as 3DMigoto Loader.exe.
+Place the files from the "3dmigoto.rar" archive in the same folder as "3DMigoto Loader.exe."
 
-If your Genshin Impact is not installed in the C:\Program Files\Genshin Impact\Genshin Impact Game folder, remember to open ge.ps1 and change the C:\Program Files\Genshin Impact\Genshin Impact Game\GenshinImpact.exe inside it to the location where you have Genshin Impact installed.
+If your Genshin Impact is not installed in the "C:\Program Files\Genshin Impact\Genshin Impact Game" directory, make sure to open "ge.ps1" and change the "C:\Program Files\Genshin Impact\Genshin Impact Game\GenshinImpact.exe" path to the location where you have installed Genshin Impact.
