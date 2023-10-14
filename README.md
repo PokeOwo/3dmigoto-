@@ -7,8 +7,12 @@
 
 記得開啟ge.ps1把裡面的C:\Program Files\Genshin Impact\Genshin Impact Game\GenshinImpact.exe改成你安裝原神的地方
 
+最後開啟start.exe就好了
+
 English:
 ========================================================================================================================
-Place the files from the compressed folder into the same directory as "3DMigoto Loader.exe."
+Place the files from the compressed folder in the same directory as 3DMigoto Loader.exe.
 
-If your Genshin Impact is not installed in the "C:\Program Files\Genshin Impact\Genshin Impact Game" folder, make sure to open "ge.ps1" and change the path "C:\Program Files\Genshin Impact\Genshin Impact Game\GenshinImpact.exe" to the location where you have installed Genshin Impact.
+If your Genshin Impact is not installed in the C:\Program Files\Genshin Impact\Genshin Impact Game folder, be sure to open ge.ps1 and change the C:\Program Files\Genshin Impact\Genshin Impact Game\GenshinImpact.exe inside to the location where you have installed Genshin Impact.
+
+Finally, just open start.exe
