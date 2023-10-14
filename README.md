@@ -9,6 +9,8 @@
 
 English:
 ========================================================================================================================
-Extract the files from 3dmigoto.rar and place them in the same folder as 3DMigoto Loader.exe.
+Copy the files from the 3dmigoto.rar to the same folder as 3DMigoto Loader.exe.
 
-If your Genshin Impact is not installed in the C:\Program Files\Genshin Impact\Genshin Impact Game folder, make sure to open ge.ps1 and change the path 'C:\Program Files\Genshin Impact\Genshin Impact Game\GenshinImpact.exe' to the location where you have installed Genshin Impact. Then, run start.exe, and you're all set.
+If your Genshin Impact is not installed in the C:\Program Files\Genshin Impact\Genshin Impact Game folder, make sure to open ge.ps1 and change the path "C:\Program Files\Genshin Impact\Genshin Impact Game\GenshinImpact.exe" to the location where you have installed Genshin Impact.
+
+Finally, run start.exe to start the process.
